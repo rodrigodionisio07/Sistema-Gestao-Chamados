@@ -1,4 +1,5 @@
 # Sistema de Gestão de Chamados
+![Sistema de Gestão de Chamados](banner.png)
 
 Sistema de gerenciamento de chamados de suporte técnico desenvolvido utilizando tecnologias do ecossistema .NET.
 
