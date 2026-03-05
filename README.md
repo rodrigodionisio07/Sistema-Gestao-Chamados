@@ -54,3 +54,25 @@ Este projeto foi desenvolvido para praticar conceitos importantes de desenvolvim
 ## Como Executar
 
 1 Clone o repositório
+
+2 Abra o projeto no Visual Studio
+
+3 Configure o banco de dados SQL Server
+
+4 Execute o projeto
+
+---
+
+## Autor
+
+Rodrigo Dionisio Gervasi
+
+GitHub  
+https://github.com/rodrigodionisio07
+
+LinkedIn  
+https://www.linkedin.com/in/rodrigo-dionisio-gervasi-b64783237
+
+---
+
+Projeto desenvolvido para fins de estudo e portfólio.
