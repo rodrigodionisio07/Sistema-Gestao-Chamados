@@ -1,65 +1,56 @@
-📌 Sistema de Gestão de Chamados com Chatbot Inteligente
-👨‍💻 Autor
+# Sistema de Gestão de Chamados
 
-Rodrigo Dionisio
-Projeto Acadêmico – 2026
+Sistema de gerenciamento de chamados de suporte técnico desenvolvido utilizando tecnologias do ecossistema .NET.
 
-🎯 Sobre o Projeto
+Este projeto foi desenvolvido com objetivo de praticar desenvolvimento backend, organização de projetos e integração com banco de dados.
 
-Sistema completo de gerenciamento de chamados de suporte técnico com integração de Inteligência Artificial (OpenAI), desenvolvido em .NET com arquitetura multiplataforma (Web, Desktop e Mobile).
+---
 
-🚀 Principais Funcionalidades
+## Tecnologias Utilizadas
 
-🤖 Chatbot Inteligente com IA (GPT)
+- C#
+- .NET
+- ASP.NET Core
+- SQL Server
+- Entity Framework
+- Git e GitHub
 
-💬 Chat em tempo real com SignalR
+---
 
-📊 Dashboard gerencial com métricas
+## Funcionalidades
 
-👥 Controle de usuários por perfil
+- Cadastro de usuários
+- Abertura de chamados
+- Gerenciamento de solicitações
+- Estrutura para controle de suporte técnico
+- Organização de atendimentos
 
-⭐ Sistema de avaliação de atendimento
+---
 
-🔐 Autenticação segura com JWT
+## Estrutura do Projeto
 
-🏗️ Arquitetura
+GestaoChamados/
 
-ASP.NET Core 8 (API)
+API - Backend da aplicação  
+Web - Aplicação Web  
+Desktop - Aplicação Desktop  
+Mobile - Aplicação Mobile  
+Shared - Código compartilhado
 
-SQL Server
+---
 
-Entity Framework Core
+## Objetivo do Projeto
 
-WPF (Desktop)
+Este projeto foi desenvolvido para praticar conceitos importantes de desenvolvimento de software como:
 
-.NET MAUI (Mobile)
+- desenvolvimento backend
+- criação de APIs
+- organização de código
+- arquitetura de projetos
+- integração com banco de dados
 
-MVC + Razor (Web)
+---
 
-🔄 Fluxo do Sistema
+## Como Executar
 
-Cliente abre chamado
-
-Chatbot tenta resolver automaticamente
-
-Caso necessário, entra na fila de atendimento
-
-Técnico assume e resolve
-
-Cliente avalia atendimento
-
-Gestor acompanha métricas
-
-🎭 Perfis
-
-Cliente
-
-Técnico
-
-Gerente
-
-Administrador
-
-🛠️ Tecnologias
-
-C# | .NET 8 | SQL Server | SignalR | JWT | WPF | MAUI | Bootstrap
+1 Clone o repositório
